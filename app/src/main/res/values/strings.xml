@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EtanolGasolina</string>
+    <string name="calcular">Calcular</string>
+    <string name="melhorEscolha">" "</string>
+    <string name="informeValor">Informe um valor!</string>
+    <string name="cabecalho">Digite os preços e clique em "\""Calcular"\""</string>
+</resources>
