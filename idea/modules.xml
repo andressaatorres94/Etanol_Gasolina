@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EtanolGas.iml" filepath="$PROJECT_DIR$/EtanolGas.iml" group="EtanolGas" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="EtanolGas/app" />
+    </modules>
+  </component>
+</project>
