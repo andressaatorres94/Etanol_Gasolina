@@ -1,0 +1,2 @@
+rootProject.name='EtanolGas'
+include ':app'
